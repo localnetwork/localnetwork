@@ -14,4 +14,4 @@ Web Developer from the Philippines. 💻☕
 
 ## Stats
 
-![Localnetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=localnetwork&theme=dark&show_icons=true)
+![Localnetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=localnetwork&theme=discord_old_blurple&show_icons=true)
