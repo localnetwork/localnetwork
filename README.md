@@ -10,9 +10,8 @@ Web Developer from the Philippines. 💻☕
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=php,wordpress,drupal,html,css,sass,js,jquery,bootstrap,react,nextjs,mysql,linux,git,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=php,drupal,html,css,sass,js,jquery,bootstrap,react,nextjs,mysql,linux,git,nginx,vscode&theme=light)
 
 ## Stats
 
-![Statistics](https://raw.githubusercontent.com/localnetwork/github-stats/master/generated/overview.svg)
-![Languages](https://raw.githubusercontent.com/localnetwork/github-stats/master/generated/languages.svg)
+![Localnetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=localnetwork&theme=dark&show_icons=true)
