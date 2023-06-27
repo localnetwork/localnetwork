@@ -10,7 +10,7 @@ Web Developer from the Philippines. 💻☕
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=php,drupal,html,css,sass,js,jquery,bootstrap,react,nextjs,mysql,linux,git,nginx,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=php,html,css,sass,js,jquery,bootstrap,react,nextjs,mysql,linux,git,nginx,vscode&theme=light)
 
 ## Stats
 
