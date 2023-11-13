@@ -4,12 +4,6 @@
 
 Web Developer from the Philippines. 💻☕
 
-## 🔧 Technologies
-
-![skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,jquery,bootstrap,nextjs,mysql,linux,git,vscode&theme=dark)
-
-## Stats
-
 [![Diome Nike Potot's GitHub stats](https://github-readme-stats.vercel.app/api?username=localnetwork)](https://github.com/localnetwork/github-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=localnetwork)
