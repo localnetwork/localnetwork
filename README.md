@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-[![Diome Nike Potot's GitHub stats](https://github-readme-stats.vercel.app/api?username=localnetwork)](https://github.com/localnetwork/github-stats)
+![Statistics](https://raw.githubusercontent.com/hallowichig0/github-stats/master/generated/overview.svg)
+![Languages](https://raw.githubusercontent.com/hallowichig0/github-stats/master/generated/languages.svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=localnetwork)
