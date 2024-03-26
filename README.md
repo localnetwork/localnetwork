@@ -8,4 +8,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=localnetwork)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313pemrgpk6s6ya2kl3r4metdyg4&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=313pemrgpk6s6ya2kl3r4metdyg4&redirect=true)
+## 🎧 Spotify Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22llhube73kw25xltxunvep4i&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=22llhube73kw25xltxunvep4i&redirect=true)
