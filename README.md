@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...)]
+<br />
+(https://git.io/typing-svg)
 ![Profile views](https://komarev.com/ghpvc/?username=localnetwork)
 
 ---
