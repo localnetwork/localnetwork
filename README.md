@@ -11,7 +11,7 @@
 
 <p align="center">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=localnetwork&rank_icon=github&hide=stars&include_all_commits=true&all_commits=true&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="localnetwork's GitHub Streak" width="52.4%" />
-    <img src="https://streak-stats.demolab.com?user=localnetwork&theme=dark&hide_border=true" alt="localnetwork's GitHub Stats" width="45.6%" />
+    <img src="https://streak-stats.demolab.com?user=localnetwork&theme=gotham&hide_border=true" alt="localnetwork's GitHub Stats" width="45.6%" />
 </p>
 
 <p align="center">
