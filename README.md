@@ -25,8 +25,8 @@
 
 #### DevOps
 
--- **Version Control:** Git, GitHub, Bitbucket
--- **Containerization:** Docker
+- **Version Control:** Git, GitHub, Bitbucket
+- **Containerization:** Docker
 
 ---
 
