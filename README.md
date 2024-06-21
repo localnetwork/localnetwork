@@ -11,17 +11,17 @@
 
 #### Frontend
 
--- **Languages:** HTML5, CSS3, JavaScript
--- **Frameworks/Libraries:** NextJs, Vuejs
--- **Styling:** SASS, Bootstrap, Tailwind CSS
--- **Tools:** npm
+- **Languages:** HTML5, CSS3, JavaScript
+- **Frameworks/Libraries:** NextJs, Vuejs
+- **Styling:** SASS, Bootstrap, Tailwind CSS
+- **Tools:** npm
 
 #### Backend
 
--- **Frameworks:** Node(Express.js), PHP(Laravel)
--- **Databases:** MySQL
--- **APIs:** RESTful
--- **Authentication/Authorization:** JWT
+- **Frameworks:** Node(Express.js), PHP(Laravel)
+- **Databases:** MySQL
+- **APIs:** RESTful
+- **Authentication/Authorization:** JWT
 
 #### DevOps
 
