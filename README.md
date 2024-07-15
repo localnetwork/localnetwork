@@ -5,6 +5,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=localnetwork&color=268F77)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31y2owezk2jf3edyi6i4wrhhql3q&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31y2owezk2jf3edyi6i4wrhhql3q&redirect=true)
 ---
 
 ### Skills
