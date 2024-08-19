@@ -9,6 +9,11 @@
 
 ### Skills
 
+#### CMS
+- **PHP** Drupal CMS
+- **NODE** Strapi CMS
+
+
 #### Frontend
 
 - **Languages:** HTML5, CSS3, JavaScript
