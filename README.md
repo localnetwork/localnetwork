@@ -10,8 +10,8 @@
 ### Skills
 
 #### CMS
-- **PHP** Drupal CMS
-- **NODE** Strapi CMS
+- **PHP:** Drupal CMS
+- **NODE:** Strapi CMS
 
 
 #### Frontend
