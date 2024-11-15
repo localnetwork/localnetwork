@@ -18,7 +18,7 @@
 #### Frontend
 
 - **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks/Libraries:** NextJs, Vuejs
+- **Frameworks/Libraries:** NextJs(React)
 - **Styling:** SASS, Bootstrap, Tailwind CSS
 - **Tools:** npm
 
