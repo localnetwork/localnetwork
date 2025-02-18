@@ -45,6 +45,6 @@
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=localnetwork&theme=gotham&hide_border=true&hide_title=false&area=true&custom_title=Contributions" alt="localnetwork's GitHub Activity Graph" width="100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localnetwork&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&test=test" alt="localnetwork's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localnetwork&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="localnetwork's Top Languages" />
 </p>
 
