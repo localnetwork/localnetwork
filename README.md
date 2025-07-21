@@ -1,5 +1,7 @@
 ## I am Diome
 
+I'm a web developer with 9 years of experience developing simple and complex web based applications.
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=268F77&size=24&width=500&lines=Web+Developer;Nice+to+meet+you...)
 <br />
 
